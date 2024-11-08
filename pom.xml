@@ -87,6 +87,7 @@
         <groupId>io.sundr</groupId>
         <artifactId>sundr-maven-plugin</artifactId>
         <version>${sundrio.version}</version>
+        <inherited>false</inherited>
         <executions>
           <execution>
             <goals>
